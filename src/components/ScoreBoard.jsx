@@ -13,6 +13,8 @@ export default function ScoreBoard() {
   );
 }
 
+
+
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#E0E7FF',

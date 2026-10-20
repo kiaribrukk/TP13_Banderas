@@ -22,6 +22,8 @@ export default function Timer() {
   );
 }
 
+
+
 const styles = StyleSheet.create({
   container: {
     marginVertical: 10,

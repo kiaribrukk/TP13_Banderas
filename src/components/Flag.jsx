@@ -24,6 +24,8 @@ export default function Flag() {
   );
 }
 
+
+
 const styles = StyleSheet.create({
   container: {
     alignItems: 'center',

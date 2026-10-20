@@ -5,6 +5,8 @@ import { useGame } from '../context/GameContext';
 export default function Leaderboard() {
   const { ranking } = useGame();
 
+
+  
   return (
     <View style={styles.container}>
       <Text style={styles.title}>🏆 Tabla de posiciones</Text>
